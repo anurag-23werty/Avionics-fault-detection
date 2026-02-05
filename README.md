@@ -166,7 +166,7 @@ Then they will render here:
 
 ![PCA Workflow](docs/images/pca_workflow.png)
 
-![System Architecture](docs/images/system_architecture.png)
+![System Architecture](docs/images/system_architecture.jpeg)
 
 If you share more reference photos, drop them into `docs/images/` and add them in this section the same way.
 
